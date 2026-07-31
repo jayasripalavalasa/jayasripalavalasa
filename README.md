@@ -76,11 +76,7 @@ I am a *B.Tech Artificial Intelligence & Machine Learning* student passionate ab
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jayasripalavalasa&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
 
----
 
 <h3 align="center">⭐ Thanks for visiting my profile!</h3>
 
