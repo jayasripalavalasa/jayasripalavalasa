@@ -35,9 +35,8 @@ I am a *B.Tech Artificial Intelligence & Machine Learning* student passionate ab
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-Learn"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" alt="TensorFlow"/>
+  
+  
 </p>
 
 ---
@@ -55,13 +54,7 @@ I am a *B.Tech Artificial Intelligence & Machine Learning* student passionate ab
 
 ---
 
-## 📈 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayasripalavalasa&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 ## 📫 Connect With Me
 
