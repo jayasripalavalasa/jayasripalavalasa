@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayasri Palavalasa</h1>
 
 <h3 align="center">
-B.Tech Artificial Intelligence & Machine Learning Student | DSA Enthusiast
+B.Tech Artificial Intelligence & Machine Learning Student
 </h3>
 
 <p align="center">
@@ -12,12 +12,13 @@ B.Tech Artificial Intelligence & Machine Learning Student | DSA Enthusiast
 
 ## 👩‍💻 About Me
 
-I am a *B.Tech Artificial Intelligence & Machine Learning* student passionate about coding, problem-solving, and building intelligent applications. I enjoy exploring Machine Learning, strengthening my Data Structures & Algorithms skills using Java, and continuously learning new technologies.
+I am a *B.Tech Artificial Intelligence & Machine Learning* student passionate about coding, problem-solving, and building intelligent applications. 
 
 - 💻 Passionate about coding and software development
 - ☕ Practicing Data Structures & Algorithms using Java
-- 🤖 Currently working on Machine Learning projects
-- 📚 Continuously learning new technologies and improving my technical skills
+- 🤖 Currently working on FastAPI.
+- 🎯 Aspiring Software Engineer
+
 
 ---
 
